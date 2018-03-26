@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact name="1.0.1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/1_0_1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="1.0.1.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="1.0.1" />
+      </element>
+      <element id="library" level="project" name="Maven: freemarker:freemarker:2.3.8" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.6" />
+      <element id="library" level="project" name="scala-sdk-2.11.11" />
+      <element id="library" level="project" name="Maven: gnu.getopt:java-getopt:1.0.13" />
+      <element id="dir-copy" path="F:/安装包/包/icepdf-5.0.6" />
+      <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.11.11" />
+      <element id="file-copy" path="F:/安装包/包/icepdf-5.0.6/icepdf-pro.jar" />
+      <element id="file-copy" path="F:/安装包/包/icepdf-5.0.6/icepdf-core.jar" />
+      <element id="file-copy" path="F:/安装包/包/icepdf-5.0.6/icepdf-extra.jar" />
+      <element id="file-copy" path="F:/安装包/包/icepdf-5.0.6/icepdf-viewer.jar" />
+      <element id="file-copy" path="F:/安装包/包/icepdf-5.0.6/icepdf-pro-intl.jar" />
+    </root>
+  </artifact>
+</component>
